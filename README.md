@@ -1,4 +1,4 @@
 ## Calling APIs
 
 - axios for calling apis
-- logging for https://sentry.io
+- https://sentry.io for logging
